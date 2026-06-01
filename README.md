@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on: startup ideas that do good for people and the planet
 - 📫 How to reach me: email me at paul (at) ok200 (dot) net
 
+
+```mermaid
 flowchart LR
     subgraph practice["GP Practice (on-prem)"]
         BP["Bp Premier<br/>+ local SQL Server"]
@@ -30,3 +32,4 @@ flowchart LR
 
     classDef noinstall fill:#e6f4ea,stroke:#137333;
     class API,DEID,GP noinstall;
+```
